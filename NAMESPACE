@@ -1,0 +1,2 @@
+export(mapCpd)
+import(KEGGREST)
