@@ -1,0 +1,11 @@
+Package: keggmapper
+Type: Package
+Title: do the same thing as KEGG Mapper
+Version: 0.1.0
+Date: 2015-09-16
+Author: Kozo Nishida
+Maintainer: Kozo Nishida <knishida@riken.jp>
+Depends: KEGGREST
+Description: write later
+License: Apache License (== 2.0)
+NeedsCompilation: no
